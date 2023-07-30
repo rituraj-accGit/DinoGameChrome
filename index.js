@@ -1,5 +1,3 @@
-//github test
-
 import Ground from './Ground.js';
 import dino from './dino.js';
 import obsController from './obsController.js';
@@ -196,5 +194,4 @@ requestAnimationFrame(GameLoop);
 
 window.addEventListener("keyup", reset, {once : true});
 window.addEventListener("touchstart", reset, {once : true});
-
-//git Test comment
+//testing GIT integration
