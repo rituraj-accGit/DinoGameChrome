@@ -5,5 +5,5 @@ currently runs on all screen sizes and devices, and optimised for all refresh ra
 
 INSTRUCTIONS FOR PLAY:
 press Spacebar to start the game.
-press Spacebar to jumb over obstacles.
+press Spacebar to jump over obstacles.
 Once the Game Over screen is displayed, you can press Spacebar to restart it after a certain interval.
